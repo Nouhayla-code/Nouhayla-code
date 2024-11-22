@@ -16,6 +16,9 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://go.dev/)
+
+
 
 ### ⚙️ -Technologies & Frameworks
 
@@ -43,6 +46,8 @@
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/home)
 [![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+[![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)  
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouhayla-code&hide=css,html&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/Nouhayla-code/github-readme-stats)
 
