@@ -27,6 +27,8 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)  
+[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/)  
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
@@ -35,10 +37,12 @@
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
 
+
 ### 🖥️ -OS
 
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://www.apple.com/)
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)  
 [![Ubuntu](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]([https://Ubuntu.org])
 
 ### 📱 -Other
@@ -48,6 +52,7 @@
 [![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 [![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)  
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus)](https://prometheus.io/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouhayla-code&hide=css,html&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/Nouhayla-code/github-readme-stats)
 
