@@ -17,6 +17,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)  
 
 
 
