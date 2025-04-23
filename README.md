@@ -43,7 +43,6 @@
 
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://www.apple.com/)
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)  
 [![Ubuntu](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]([https://Ubuntu.org])
 
 ### 📱 -Other
